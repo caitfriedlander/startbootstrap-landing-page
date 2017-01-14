@@ -122,7 +122,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/compcoffee.jpg) no-repeat center center;
+    background: url(../img/colorclouds.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -164,6 +164,15 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
+}
+
+.modal-body {
+  display: flex;
+  justify-content: center;
+}
+
+.modal-text {
+  color: black;
 }
 
 footer {
