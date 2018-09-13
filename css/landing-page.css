@@ -35,7 +35,8 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/colorclouds.jpg) no-repeat center center;
+    background-color: black;
+    background: url(https://ak1.picdn.net/shutterstock/videos/25471031/thumb/1.jpg) no-repeat center center transparent;
     background-size: cover;
 }
 
@@ -49,6 +50,10 @@ h6 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
+}
+
+.intro-message > h4 {
+    line-height: 25px;
 }
 
 .intro-divider {
@@ -123,7 +128,8 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/colorclouds.jpg) no-repeat center center;
+    background-color: black;
+    /* background: url(../img/colorclouds.jpg) no-repeat center center; */
     background-size: cover;
 }
 
