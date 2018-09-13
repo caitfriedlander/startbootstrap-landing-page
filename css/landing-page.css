@@ -36,7 +36,8 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     background-color: black;
-    background: url(https://ak1.picdn.net/shutterstock/videos/25471031/thumb/1.jpg) no-repeat center center transparent;
+    background: url(https://ak1.picdn.net/shutterstock/videos/25471031/thumb/1.jpg) no-repeat center center;
+    opacity: 0.9;
     background-size: cover;
 }
 
@@ -129,7 +130,8 @@ h6 {
     padding: 100px 0;
     color: #f8f8f8;
     background-color: black;
-    /* background: url(../img/colorclouds.jpg) no-repeat center center; */
+    background: url(https://ak1.picdn.net/shutterstock/videos/25471031/thumb/1.jpg) no-repeat center center;
+    opacity: 0.9;
     background-size: cover;
 }
 
